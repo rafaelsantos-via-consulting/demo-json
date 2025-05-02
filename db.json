@@ -1,4 +1,6 @@
 {
+"orders":[
+  {
   "pedido_id": "123456789",
   "status_pedido": "Em trânsito",
   "data_pedido": "2025-04-29T14:32:00Z",
@@ -52,4 +54,6 @@
     "previsao_entrega": "2025-05-03",
     "status_entrega": "Saiu para entrega"
   }
+}
+]
 }
